@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Anthony
+
+🎓 I'm currently studying Computer Science at the University of Otago
+
+🌱 Exploring AI applications with Python
+
+🔭 Developing a blackjack project using React.js
 
 <!--
 **anthonyzhdong/anthonyzhdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
