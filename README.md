@@ -4,7 +4,7 @@
 
 🌱 Exploring AI applications with Python
 
-🔭 Developing a blackjack project using React.js
+🔭 Developing a blackjack and a personal portfolio project using React.js
 
 <!--
 **anthonyzhdong/anthonyzhdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
