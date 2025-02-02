@@ -1,15 +1,19 @@
 ## Hi there 👋 I'm Anthony
 
-🎓 I'm currently studying Computer Science at the University of Otago
+🎓 I'm a Computer Science Graduate from the University of Otago
 
-🌱 Exploring AI applications with Python
+💼 Currently looking for Software Engineer or Developer roles
 
-🔭 Developing a blackjack and a personal portfolio project using React.js
+🔭 Developing a workout tracker using JavaScript, MySQL and Python
+
+📫 Open to collaborate and connect!
 
 <!--
 **anthonyzhdong/anthonyzhdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+🌱 Exploring AI applications with Python
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
