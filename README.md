@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science Graduate from the University of Otago
 
-💼 Currently looking for Software Engineer or Developer roles
+💼 Currently working as a Software Developer in Wellington
 
 🔭 Developing a workout tracker using JavaScript, MySQL and Python
 
